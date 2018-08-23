@@ -1,0 +1,22 @@
+{
+  "name": "LA Fitness Dr. | Holistic Wellness Coaching",
+  "short_name": "LA Fit Dr.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#A463F2",
+  "theme_color": "#A463F2",
+  "description": "Placeholder",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "images/icons/homescreen192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/homescreen512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
